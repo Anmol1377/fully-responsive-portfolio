@@ -1,3 +1,1 @@
-# Note
-This is my personal portfolio , this is just a prototype and the real portfolio will launch soon 
-stay tuned.....................
+
