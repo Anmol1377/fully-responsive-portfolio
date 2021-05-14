@@ -1,3 +1,4 @@
 # Note
-This is my personal portfolio , this is just a prototype and the real portfolio will launch soon 
+This is my personal code  portfolio , these codes are written and practised by me 
+IDE used VS code  
 stay tuned.....................
